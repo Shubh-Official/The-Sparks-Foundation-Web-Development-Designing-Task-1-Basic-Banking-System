@@ -191,7 +191,7 @@
                         <input type="text" name="AccountNumber" class="form-control" value="<?php echo $AccountNumber; ?>" readonly>
                     </div>
                     <div class="col-md-4 position-relative">
-                        <label for="validationCustom02" class="form-label fw-bold">State</label>
+                        <label for="validationCustom02" class="form-label fw-bold">Account Type</label>
                         <select class="form-select" name="AccountType" id="validationCustom02" required>
                             <option selected disabled><?php echo $AccountType; ?></option>
                         </select>
@@ -251,7 +251,7 @@
                                 while($row = $CustomerData -> fetch_assoc())
                                 {
                                     if($AccountNumber != $row['AccountNumber'])
-                                        echo "<option value='" . $row['AccountNumber'] . "'>" . $row['AccountNumber'] . "</option>";
+                                        echo "<option value='" . $row['AccountNumber'] . "'>" . $row['AccountNumber'] . " - " . $row['FirstName'] . " " . $row['MiddleName'] . " " . $row['LastName'] . "</option>";
                                 }
                             ?>
                         </select>

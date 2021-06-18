@@ -36,6 +36,9 @@
                     </a>
                 </div>
             </div>
+            <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System">
+
+            </a>
         </div>   
     </nav>
 
@@ -48,8 +51,11 @@
     </div> -->
 
     <div class="container mt-5">
-        <div class="row p-4 text-info text-center">
+        <div class="row p-4 text-danger text-center">
             <h1>Task #1 - Basic Banking System</h1>
+        </div>
+        <div class="row pb-4 text-danger text-center">
+            <h1>#GRIPJUNE21</h1>
         </div>
         <div class="row">
             <h3>Flow :</h3>
@@ -65,6 +71,23 @@
                     <li>View all Customers</li>
                 </ul>
             </h5>
+        </div>
+        <div class="row flex">
+            <div class="col-2">
+                <h3>GitHub Link : </h3>
+            </div>
+            <div class="col-2">
+                <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System">
+                    <button class="btn btn-dark" type="submit">
+                        Click Here
+                    </button>
+                </a>
+            </div>
+            <div class="col-8">
+                <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System">
+                    https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System
+                </a>
+            </div>
         </div>
     </div>
 

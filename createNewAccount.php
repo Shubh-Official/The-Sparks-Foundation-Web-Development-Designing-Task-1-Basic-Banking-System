@@ -132,7 +132,7 @@
                         ?>
                     </div>
                     <div class="col-md-4 position-relative">
-                        <label for="validationCustom01" class="form-label fw-bold">State</label>
+                        <label for="validationCustom01" class="form-label fw-bold">Account Type</label>
                         <select class="form-select" name="AccountType" id="validationCustom02" required>
                             <option selected disabled value="">Choose...</option>
                             <option value="SA">Saving Account</option>
