@@ -1,0 +1,8 @@
+.homeCarousal {
+    background: #000;
+}
+
+.homeCarousal img{
+    height: 100vh;
+    opacity: 0.4;
+}

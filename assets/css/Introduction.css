@@ -1,0 +1,7 @@
+.introduction {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    /* background: rgba(13, 202, 240, 1); */
+    border-radius: 10px;
+}
