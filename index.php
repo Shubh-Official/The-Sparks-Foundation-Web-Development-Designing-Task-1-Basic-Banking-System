@@ -78,13 +78,13 @@
             </div>
             <div class="col-2">
                 <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System">
-                    <button class="btn btn-dark" type="submit">
+                    <button class="btn btn-dark" target="_BLANK" type="submit">
                         Click Here
                     </button>
                 </a>
             </div>
             <div class="col-8">
-                <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System">
+                <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System" target="_BLANK">
                     https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System
                 </a>
             </div>
