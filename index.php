@@ -77,8 +77,8 @@
                 <h3>GitHub Link : </h3>
             </div>
             <div class="col-2">
-                <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System">
-                    <button class="btn btn-dark" target="_BLANK" type="submit">
+                <a href="https://github.com/Shubh-Official/The-Sparks-Foundation-Web-Development-Designing-Task-1-Basic-Banking-System" target="_BLANK">
+                    <button class="btn btn-dark" type="submit">
                         Click Here
                     </button>
                 </a>
